@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">therophonobot</string>
+    <string name="welcome_string">Welcome!</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="application_logo">Application Logo</string>
+    <string name="go">Go</string>
+    <string name="don_t_have_account_yet">Don\'t have account yet ?</string>
+    <string name="sign_up">" Sign Up"</string>
+    <string name="or">Or</string>
+    <string name="google_login_icon">Google Login Icon</string>
+    <string name="google_login">Google Login</string>
+    <string name="visibility">Visibility</string>
+    <string name="create_account">Create Account</string>
+    <string name="guardian_name">Guardian Name</string>
+    <string name="child_name">Child Name</string>
+    <string name="child_age">Child Age</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="email">Email</string>
+    <string name="text_fields_cannot_be_empty">Text Fields Cannot Be Empty</string>
+    <string name="are_you_interested_in_parent_s_counselling">Are You Interested In Parent\'s Counselling ?</string>
+    <string name="are_you_looking_for_parent_s_guidance_book">Are You looking for Parent\'s guidance book?</string>
+    <string name="network_error">Network Error</string>
+    <string name="internet_is_not_connected">Internet is Not Connected!</string>
+    <string name="refresh">Refresh</string>
+    <string name="close">Close</string>
+    <string name="web_client_id">63695418330-vdv82qa24jgoltp73696b1ddige7tah3.apps.googleusercontent.com</string>
+    <string name="therophonobot">Therophonobot</string>
+</resources>
